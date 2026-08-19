@@ -1,0 +1,11 @@
+Patient_ID,Ward,Admission_Date,Discharge_Date,Readmission,Age
+P-101,icu,2026-07-01,2026-07-10,Yes,62
+P-102,Surgical,2026-07-03,2026-07-07,No,45
+P-103,pediatric,2026-07-05,2026-07-08,,11
+P-104,Medical,2026-07-05,2026-07-15,Yes,71
+P-105,ICU,2026-07-06,2026-07-12,Yes,58
+P-106,surgical,2026-07-10,2026-07-14,No,39
+P-107,Pediatric,2026-07-11,2026-07-13,No,5
+P-108,Medical,2026-07-12,2026-07-20,Yes,68
+P-109,icu,2026-07-15,2026-07-22,No,54
+P-110,Surgical,2026-07-16,2026-07-21,Yes,50

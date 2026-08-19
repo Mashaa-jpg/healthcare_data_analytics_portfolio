@@ -1,0 +1,13 @@
+Date,Sub_County,Disease,Tested_Cases,Positive_Cases,Kit_Stock
+2026-08-01,juja,Malaria,120,45,30
+2026-08-01,Ruiru,Malaria,150,30,50
+2026-08-01,thika,Malaria,200,80,60
+2026-08-02,Juja,Malaria,110,50,20
+2026-08-02,ruiru,Malaria,140,35,40
+2026-08-02,Thika,Malaria,210,95,45
+2026-08-03,juja,Malaria,130,60,15
+2026-08-03,Ruiru,Malaria,160,40,35
+2026-08-03,thika,Malaria,220,110,30
+2026-08-04,Juja,Malaria,125,65,10
+2026-08-04,ruiru,Malaria,155,42,30
+2026-08-04,Thika,Malaria,230,120,25

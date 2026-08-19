@@ -1,0 +1,8 @@
+Drug_Name,Category,Unit_Cost,Units_Consumed,Department
+Amoxicillin 500mg,Antibiotic,KES 350,120,Pediatric
+Paracetamol 500mg,Analgesic,KES 50,500,Outpatient
+Ciprofloxacin 500mg,Antibiotic,KES 450,80,Surgical
+Ibuprofen 400mg,Analgesic,KES 80,300,Outpatient
+Artemether 80mg,Antimalarial,KES 600,150,Inpatient
+Ceftriaxone 1g,Antibiotic,KES 1200,60,ICU
+Omeprazole 20mg,Gastrointestinal,KES 150,250,Inpatient
